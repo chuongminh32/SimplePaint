@@ -1,0 +1,16 @@
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.GenerateResource.cache
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.GeneratedMSBuildEditorConfig.editorconfig
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfoInputs.cache
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfo.cs
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.CoreCompileInputs.cache
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.exe
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.deps.json
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.runtimeconfig.json
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.dll
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.pdb
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.dll
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\refint\SimplePaint.dll
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.pdb
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.genruntimeconfig.cache
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\ref\SimplePaint.dll
+G:\NamII_HK2\LTWD\BT\SimplePaint\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.MainForm.resources
